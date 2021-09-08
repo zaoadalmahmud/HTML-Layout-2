@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    text-align: center;
+    font-size: 70px;
+    height: 300px;
+    color:burlywood;
+}
+.nav{
+    background-color: crimson;
+    text-align: center;
+    font-size: 100px;
+    height: 400px;
+    color:floralwhite;
+}
+.main-section{
+    overflow: hidden;
+}
+article{
+    background-color: chartreuse;
+    font-size: 50px;
+    text-align: center;
+    height: 400px;
+    width: 80%;
+    color: cornsilk;
+    float: left;
+}
+aside{
+    background-color:green;
+    font-size: 50px;
+    text-align: center;
+    height: 400px;
+    width: 20%;
+    color: honeydew;
+    float: left;
+}
+.article{
+    height: 50%;
+    background-color: hotpink;
+}
+footer{
+    background-color: indigo;
+    text-align: center;
+    font-size: 50px;
+    height: 200px;
+    color: ivory;
+}
